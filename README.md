@@ -32,5 +32,3 @@ The dashboard highlights the following KPIs:
 🛍️ Supermarkets generated higher total sales, while smaller grocery stores had better visibility and customer engagement.
 
 ..............................................................................................................................
-
-📌 NOTE: This project was created for educational purposes using Excel. The data has been used purely for analytical storytelling and does not represent actual business data from BlinkIT.
